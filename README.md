@@ -1,0 +1,2 @@
+# NewMode
+ StandAlone
